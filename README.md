@@ -114,6 +114,6 @@ Data Acquired with GET Method
             "question": "What is the powerhouse of the cell?"
         },
     ],
-    'status': 200
+    "status": 200
 }    
 ```
